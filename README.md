@@ -3,3 +3,5 @@
 Model used- ResNet-50
 
 Dataset- PlantCFY
+
+Dataset Link -https://www.kaggle.com/competitions/plant-seedlings-classification/data
